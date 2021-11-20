@@ -1,0 +1,13 @@
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.exe
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.deps.json
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.runtimeconfig.json
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.runtimeconfig.dev.json
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.dll
+C:\Users\midou\source\repos\Bejeweled blitz\bin\Debug\netcoreapp3.1\Bejeweled blitz.pdb
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.csproj.AssemblyReference.cache
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.AssemblyInfoInputs.cache
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.AssemblyInfo.cs
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.csproj.CoreCompileInputs.cache
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.dll
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.pdb
+C:\Users\midou\source\repos\Bejeweled blitz\obj\Debug\netcoreapp3.1\Bejeweled blitz.genruntimeconfig.cache

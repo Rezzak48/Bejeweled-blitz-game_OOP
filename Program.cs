@@ -2,11 +2,14 @@
 
 namespace Bejeweled_blitz
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Game gm = new Game();
+            gm.Test();
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
