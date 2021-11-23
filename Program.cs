@@ -8,8 +8,14 @@ namespace Bejeweled_blitz
         {
             Game gm = new Game();
             gm.Test();
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Map tst = new Map();
+            //tst.InitField();
+            gm.SettingDisplay();
+            gm.DestroyJewels();
+            //  gm.isEmpty();
+            // tst.drawMap();
+            gm.FallDownAndGenerateNewJewels();
+            // Console.ReadLine();
         }
     }
 }
