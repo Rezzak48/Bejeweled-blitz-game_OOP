@@ -7,14 +7,15 @@ namespace Bejeweled_blitz
         private static void Main(string[] args)
         {
             Game gm = new Game();
-            gm.Test();
             Map tst = new Map();
+
+            gm.Test();
+
             //tst.InitField();
-            gm.SettingDisplay();
-            gm.DestroyJewels();
-            //  gm.isEmpty();
-            // tst.drawMap();
-            gm.FallDownAndGenerateNewJewels();
+            //gm.SettingDisplay();
+            //gm.ScoreDisplay();
+            //gm.FallDownAndGenerateNewJewels();
+            //gm.Engine();
             // Console.ReadLine();
         }
     }

@@ -44,6 +44,18 @@ namespace Bejeweled_blitz
             }
         }
 
+        public int Y
+        {
+            get
+            {
+                return x;
+            }
+            set
+            {
+                x = value;
+            }
+        }
+
         public bool IsSelected
         {
             get
@@ -56,15 +68,15 @@ namespace Bejeweled_blitz
             }
         }
 
-        public int Y
+        public bool IsCursorPosition
         {
             get
             {
-                return x;
+                return isCursorPosition;
             }
             set
             {
-                x = value;
+                isCursorPosition = value;
             }
         }
 
